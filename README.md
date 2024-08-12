@@ -1,4 +1,6 @@
-## Hi there 👋
+## About Me
+
+I'm David Sosa, I'm Mexican, Backend Developer, and a gamer. 😊
 
 <!--
 **davidusg/davidusg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
